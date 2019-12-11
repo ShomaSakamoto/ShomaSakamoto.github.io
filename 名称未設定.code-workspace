@@ -1,0 +1,16 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "/Users/ShomaSakamoto/Downloads/startbootstrap-full-width-pics-gh-pages/css"
+		},
+		{
+			"path": "/Users/ShomaSakamoto/Downloads/startbootstrap-full-width-pics-gh-pages/vendor"
+		}
+	],
+	"settings": {
+		"git.ignoreLimitWarning": true
+	}
+}
